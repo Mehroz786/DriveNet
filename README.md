@@ -1,6 +1,6 @@
 # DriveNet - Final Year Project 🚗🔧
 
-Welcome to the DriveNet repository! This project is part of my Final Year Project (FYP), focusing on [brief description of your project].
+Welcome to the DriveNet repository! This is my Final Year Project (FYP), focusing on car selling with AI.
 
 ## Overview 🌐
 
