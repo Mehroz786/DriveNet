@@ -13,9 +13,9 @@ The primary objective of this project is to simplify the car-selling process, en
 
 This repository contains the following components:
 
-1. **Presentation** 📊: (https://github.com/Mehroz786/DriveNet/blob/main/DriveNet-%20FYP%20Presentation.pptx)
-2. **Proposal** 📄: (https://github.com/Mehroz786/DriveNet/blob/main/DriveNet%20Proposal%20Original.docx)
-
+1. **Presentation** 📊: https://github.com/Mehroz786/DriveNet/blob/main/DriveNet-%20FYP%20Presentation.pptx
+2. **Proposal** 📄: https://github.com/Mehroz786/DriveNet/blob/main/DriveNet%20Proposal%20Original.docx
+3. **Data Scrapping Part** : https://github.com/Mehroz786/DriveNet/tree/main/DataScrappingPart
 
 ## Problem Statement ❓
 In today's digital age, the re-selling of old vehicles through online marketplaces has become increasingly popular. However, both sellers and buyers face several challenges in this process. One of the most significant challenges is determining the optimal selling price for used items. Sellers often struggle to set a competitive price that reflects the item's true value, while buyers aim to make informed purchasing decisions based on fair market prices. 
